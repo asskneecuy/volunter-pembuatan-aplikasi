@@ -7,3 +7,4 @@ Silahkan gunakan format berikut :
 
 Berikut adalah daftar Volunter yang diterima :
 * Adil Nurhakim, [oo.or.id](https://oo.or.id).
+* asskneecuy/volunter-pembuatan-aplikasi
